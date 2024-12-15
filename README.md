@@ -33,9 +33,9 @@ You can find the full SQL scripts in the `analysis` folder.
 
 Files
 
-Rajesh.sql_Capstone_2.sql: Contains all the SQL queries for the project.
-Automobile_dataset_COGNICO.csv: Sample data for this project.
-README.md: Project documentation.
+- Rajesh.capstone.sql: Contains all the SQL queries for the project.
+- Automobile_dataset_COGNICO.csv: Sample data for this project.
+- README.md: Project documentation.
 
  Sample Query:
 ```sql
